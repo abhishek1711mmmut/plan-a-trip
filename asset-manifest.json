@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-a-trip/static/css/main.5eab548a.css",
+    "main.js": "/plan-a-trip/static/js/main.c4caac86.js",
+    "index.html": "/plan-a-trip/index.html",
+    "main.5eab548a.css.map": "/plan-a-trip/static/css/main.5eab548a.css.map",
+    "main.c4caac86.js.map": "/plan-a-trip/static/js/main.c4caac86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eab548a.css",
+    "static/js/main.c4caac86.js"
+  ]
+}
